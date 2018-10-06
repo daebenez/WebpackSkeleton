@@ -1,0 +1,25 @@
+{
+  "name": "WebpackSkeleton",
+  "version": "1.0.0",
+  "description": "A skeletal framework for JS projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daebenez/WebpackSkeleton.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daebenez/WebpackSkeleton/issues"
+  },
+  "homepage": "https://github.com/daebenez/WebpackSkeleton#readme",
+  "devDependencies": {
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
